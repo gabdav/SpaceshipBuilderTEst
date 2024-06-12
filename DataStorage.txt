@@ -1,0 +1,1 @@
+For Data Storage we could use anything from JSONs to PlayerPrefs or even something third party. I don't see how this type of project could be limited from any of these.
